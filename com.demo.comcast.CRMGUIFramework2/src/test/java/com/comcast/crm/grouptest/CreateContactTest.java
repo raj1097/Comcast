@@ -25,7 +25,7 @@ public class CreateContactTest extends BaseClass
 {
 	@Test(groups = {"smokeTest"})
 	public void CreateContactWithMandatoryTest() throws EncryptedDocumentException, IOException {
-		// Creating objects for POM
+		// Creating objects for POM.
 		HomePage hp = new HomePage(driver);
 		ContactsPage cp = new ContactsPage(driver);
 		CreatingNewContactPage ccp = new CreatingNewContactPage(driver);
