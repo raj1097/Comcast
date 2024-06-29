@@ -5,7 +5,7 @@
   <version>0.0.1-SNAPSHOT</version>
   <profiles>
 	  <profile>
-		  <id>FRT</id>
+		  <id>RT</id>
 		   <build>
 		<plugins>
 			<!-- Below plug-in is used to execute tests -->
